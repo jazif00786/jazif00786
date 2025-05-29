@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello World!, I'm Jazif, a CS student and a Developer 👋🏼:
 Computer Science student and aspiring full-stack developer. Dedicated to mastering programming and building practical projects that enhance both front-end and back-end skills. Focused on practical learning, building projects that sharpen skills, and preparing for real-world challenges with discipline and determination.
 
 
